@@ -31,6 +31,9 @@ main {
     text-align: center;
     align-items: center;
 }
+main.lel{
+    border-left: 25px solid white;
+}
 
 aside {
     background: rgb(236, 64, 64);
