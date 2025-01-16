@@ -1,7 +1,7 @@
 header {
     display:grid;
     display:flex;
-    background:rgb(19, 19, 156);
+    background:rgb(44, 44, 190);
     height: 125px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
@@ -17,7 +17,7 @@ nav {
     border-top: 1px solid white;
     align-items: center;
     border-bottom: 1px solid white;
-    text-decoration-color: rgb(113, 255, 19);
+    text-decoration-color: rgb(134, 247, 59);
 }
 
 main {
@@ -33,7 +33,7 @@ main {
 }
 
 aside {
-    background: rgb(216, 27, 27);
+    background: rgb(236, 64, 64);
     float: left;
     width: 268px;
     height: 400px;
