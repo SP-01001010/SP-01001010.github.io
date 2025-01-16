@@ -13,6 +13,7 @@ nav {
     background: rgb(113, 255, 19);
     display:flex;
     height: 75px;
+    width: 800px;
     border-top: 1px solid gainsboro;
     align-items: center;
     border-bottom: 1px solid gainsboro;
