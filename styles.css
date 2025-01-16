@@ -27,8 +27,6 @@ main {
     overflow: auto;
     display: flex;
     justify-content: center;
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     text-align: center;
 }
 
