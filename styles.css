@@ -26,7 +26,6 @@ main {
     border: 1px solid white;
     background: white;
     float: right;
-    overflow: auto;
     display: flex;
     justify-content: center;
     text-align: center;
