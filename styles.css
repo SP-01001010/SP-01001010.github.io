@@ -1,7 +1,7 @@
 header {
     display:grid;
     display:flex;
-    background:Black;
+    background:darkblue;
     height: 125px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
@@ -33,7 +33,7 @@ main {
 }
 
 aside {
-    background: gray;
+    background: rgb(204, 38, 38);
     float: left;
     width: 268px;
     height: 400px;
