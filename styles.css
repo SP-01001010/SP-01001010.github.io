@@ -32,7 +32,7 @@ main {
     align-items: center;
 }
 main.lel{
-    border-left: 25px solid white;
+    border: 25px solid white;
 }
 
 aside {
